@@ -1,2 +1,2 @@
 # Hackerrank_Python
-Solutions to the hacerrank problem solving practice questions
+Solutions to the hacerrank problem solving practice questions in Python
